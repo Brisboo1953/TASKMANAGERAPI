@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "1234",
+    "tasks": []
+  },
+  {
+    "id": 2,
+    "username": "brisseida",
+    "password": "abcd",
+    "tasks": []
+  },
+  {
+    "id": 3,
+    "username": "test",
+    "password": "test123",
+    "tasks": []
+  }
+]
